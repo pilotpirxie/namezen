@@ -1,0 +1,29 @@
+{
+  "name": "namezen",
+  "version": "1.0.0",
+  "description": "Name & domain generator by combining different words domains.",
+  "main": "index.js",
+  "scripts": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilotpirxie/namezen.git"
+  },
+  "keywords": [
+    "company",
+    "business",
+    "enterprise",
+    "service",
+    "product",
+    "name",
+    "generator"
+  ],
+  "author": "pilotpirxie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pilotpirxie/namezen/issues"
+  },
+  "homepage": "https://github.com/pilotpirxie/namezen#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
