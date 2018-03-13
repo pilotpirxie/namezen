@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Name & domain generator by combining different words domains.",
   "main": "index.js",
-  "scripts": "",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pilotpirxie/namezen.git"
@@ -24,6 +26,8 @@
   },
   "homepage": "https://github.com/pilotpirxie/namezen#readme",
   "dependencies": {
+    "chai": "^4.1.2",
     "prompt": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
