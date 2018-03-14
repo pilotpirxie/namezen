@@ -6,3 +6,5 @@ const name = new Namezen();
 
 // call the creator method
 name.creator();
+
+// module.exports = require('./lib/namezen');
