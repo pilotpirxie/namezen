@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/pilotpirxie/namezen#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "chai": "^4.1.2",
     "prompt": "^1.0.0"
   },
