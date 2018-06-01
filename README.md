@@ -3,7 +3,7 @@ Random name generator that combine input keywords with prefixes and suffixes and
 
 ### Install namezen:
 ```
-git git@github.com:pilotpirxie/online-now-redis.git
+git git@github.com:pilotpirxie/namezen.git
 npm install
 node app.js
 ```
